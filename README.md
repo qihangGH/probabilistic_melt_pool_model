@@ -88,7 +88,7 @@ If you find our work and this repository helpful, please consider citing our pap
 @article{fang2022process,
   author={Fang, Qihang and Xiong, Gang and Zhou, MengChu and Tamir, Tariku Sinshaw and Yan, Chao-Bo and Wu, Huaiyu and Shen, Zhen and Wang, Fei-Yue},
   journal={IEEE Trans. Autom. Sci. Eng.}, 
-  title={Process monitoring, diagnosis and control of additive manufacturing}, 
+  title={Process Monitoring, Diagnosis and Control of Additive Manufacturing}, 
   year={2024},
   volume={21},
   number={1},
