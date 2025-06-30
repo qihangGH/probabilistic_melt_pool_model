@@ -85,6 +85,28 @@ where `save_dir` is the same as the one set in `train_mp_models.py`.
 # Citation
 If you find our work and this repository helpful, please consider citing our papers:
 ```
+@article{fang2024probabilistic,
+  author={Fang, Qihang and Xiong, Gang and Zhao, Meihua and Tamir, Tariku Sinshaw and Shen, Zhen and Yan, Chao-Bo and Wang, Fei-Yue},
+  journal={IEEE Trans. Autom. Sci. Eng.}, 
+  title={Probabilistic Data-Driven Modeling of a Melt Pool in Laser Powder Bed Fusion Additive Manufacturing}, 
+  year={2024},
+  pages={1--18},
+  doi={10.1109/TASE.2024.3412431}
+}
+```
+Based on melt pool models developed in this repository, we further develop an uncertainty-aware parameter optimization method:
+```
+@article{fang2025uncertainty,
+  author={Fang, Qihang and Xiong, Gang and Wang, Fang and Shen, Zhen and Dong, Xisong and Wang, Fei-Yue},
+  journal={IEEE Trans. Autom. Sci. Eng.}, 
+  title={Uncertainty-Aware Parameter Optimization for Reliable Laser Powder Bed Fusion Additive Manufacturing},
+  year={2025},
+  pages={1--16}
+}
+```
+The corresponding repository is [here](https://github.com/qihangGH/uncertainty_aware_param_optim_for_AM).
+You may also be interested in our review paper about [Process Monitoring, Diagnosis and Control of Additive Manufacturing](https://ieeexplore.ieee.org/document/9950053):
+```
 @article{fang2022process,
   author={Fang, Qihang and Xiong, Gang and Zhou, MengChu and Tamir, Tariku Sinshaw and Yan, Chao-Bo and Wu, Huaiyu and Shen, Zhen and Wang, Fei-Yue},
   journal={IEEE Trans. Autom. Sci. Eng.}, 
@@ -94,14 +116,5 @@ If you find our work and this repository helpful, please consider citing our pap
   number={1},
   pages={1041--1067},
   doi={10.1109/TASE.2022.3215258}
-}
-
-@article{fang2024probabilistic,
-  author={Fang, Qihang and Xiong, Gang and Zhao, Meihua and Tamir, Tariku Sinshaw and Shen, Zhen and Yan, Chao-Bo and Wang, Fei-Yue},
-  journal={IEEE Trans. Autom. Sci. Eng.}, 
-  title={Probabilistic Data-Driven Modeling of a Melt Pool in Laser Powder Bed Fusion Additive Manufacturing}, 
-  year={2024},
-  pages={1--18},
-  doi={10.1109/TASE.2024.3412431}
 }
 ```
