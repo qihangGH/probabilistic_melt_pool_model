@@ -94,7 +94,7 @@ If you find our work and this repository helpful, please consider citing our pap
   doi={10.1109/TASE.2024.3412431}
 }
 ```
-Based on melt pool models developed in this repository, we further develop an uncertainty-aware parameter optimization method:
+Based on melt pool models developed in this repository, we further develop an [uncertainty-aware parameter optimization method](https://github.com/qihangGH/uncertainty_aware_param_optim_for_AM):
 ```
 @article{fang2025uncertainty,
   author={Fang, Qihang and Xiong, Gang and Wang, Fang and Shen, Zhen and Dong, Xisong and Wang, Fei-Yue},
@@ -104,8 +104,7 @@ Based on melt pool models developed in this repository, we further develop an un
   pages={1--16}
 }
 ```
-The corresponding repository is [here](https://github.com/qihangGH/uncertainty_aware_param_optim_for_AM).
-You may also be interested in our review paper about [Process Monitoring, Diagnosis and Control of Additive Manufacturing](https://ieeexplore.ieee.org/document/9950053):
+You may also be interested in our review paper about [process Monitoring, diagnosis and control of additive manufacturing](https://ieeexplore.ieee.org/document/9950053):
 ```
 @article{fang2022process,
   author={Fang, Qihang and Xiong, Gang and Zhou, MengChu and Tamir, Tariku Sinshaw and Yan, Chao-Bo and Wu, Huaiyu and Shen, Zhen and Wang, Fei-Yue},
