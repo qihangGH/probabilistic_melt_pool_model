@@ -104,7 +104,7 @@ Based on melt pool models developed in this repository, we further develop an [u
   pages={1--16}
 }
 ```
-You may also be interested in our review paper about [process Monitoring, diagnosis and control of additive manufacturing](https://ieeexplore.ieee.org/document/9950053):
+You may also be interested in our review paper about [process monitoring, diagnosis and control of additive manufacturing](https://ieeexplore.ieee.org/document/9950053):
 ```
 @article{fang2022process,
   author={Fang, Qihang and Xiong, Gang and Zhou, MengChu and Tamir, Tariku Sinshaw and Yan, Chao-Bo and Wu, Huaiyu and Shen, Zhen and Wang, Fei-Yue},
